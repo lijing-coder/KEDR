@@ -34,7 +34,7 @@ transformers==4.44.2
 Run the main program using Python:
 
 ```bash
-python main.py
+python main_train.py
 ```
 
 ## Acknowledgement
