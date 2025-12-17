@@ -1,7 +1,7 @@
 # Knowledge-enhanced Explicitly Disentangled Representation with Missing Modality for Medical Image Diagnosis
 ## Overview
 This repository contains the code for "Knowledge-enhanced Explicitly Disentangled Representation with Missing Modality for Medical Image Diagnosis"!
-![Formula](/img/overall.png)
+![Formula](/image/overall.png)
 ## Datasets
 **Skin Lesion:** Seven-Point Checklist [https://derm.cs.sfu.ca/]
 
